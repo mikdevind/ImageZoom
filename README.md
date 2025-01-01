@@ -54,7 +54,7 @@ Contoh JavaScript:
 Dengan menggunakan selector `.zoomable-image`, semua elemen gambar yang memiliki class tersebut akan mendapatkan fitur zoom interaktif.
 
 ### Hasil Akhir
-Ketika Anda mengarahkan kursor ke salah satu gambar, fitur zoom akan diaktifkan, memungkinkan pengguna untuk melihat gambar dengan lebih detail.
+Ketika Anda mengklik ke salah satu gambar, fitur zoom akan diaktifkan, memungkinkan pengguna untuk melihat gambar dengan lebih detail.
 
 ---
 
